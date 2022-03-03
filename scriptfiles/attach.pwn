@@ -1,0 +1,5 @@
+
+DENNIS12 ATTACHED OBJECT CREATOR
+
+//Slot 1 | Project Name: tool_jobalge
+SetPlayerAttachedObject(playerid, 1, 335, 6, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 0.000000, 1.000000, 1.000000, 1.000000);
